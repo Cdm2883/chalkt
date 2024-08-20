@@ -19,7 +19,7 @@ dependencyResolutionManagement {
 @Suppress("SpellCheckingInspection")
 rootProject.name = "chalkt"
 
-include(":chain-styled")
+include(":extension-styled")
 include(":legacy-styled")
 include(":shared")
 include(":example")

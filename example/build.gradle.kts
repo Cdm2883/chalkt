@@ -3,6 +3,6 @@ plugins {
 }
 
 dependencies {
-    implementation(project(":chain-styled"))
+    implementation(project(":extension-styled"))
     implementation(project(":legacy-styled"))
 }
