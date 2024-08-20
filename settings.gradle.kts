@@ -22,3 +22,4 @@ rootProject.name = "chalkt"
 include(":chain-styled")
 include(":legacy-styled")
 include(":shared")
+include(":example")
